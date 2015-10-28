@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pl.waw.stojaki.android.stojakiwawpl" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-sdk android:minSdkVersion="19"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBnJvk7GTJ4mobWdiIZ4MZ0S69h4zbaycQ" />
+        <activity
+            android:name="pl.waw.stojaki.android.stojakiwawpl.MenuActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="pl.waw.stojaki.android.stojakiwawpl.AboutProject"
+            android:label="@string/title_activity_about_project" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+
+        <activity
+            android:name="pl.waw.stojaki.android.stojakiwawpl.StojakiMapa"
+            android:label="@string/title_activity_stojaki_mapa" >
+            <meta-data
+                android:name="com.google.android.maps.v2.AIzaSyBzzPdC-x-IG2B3CdZhxbN8vKMWZUM12U4"
+                android:value="AIzaSyBzzPdC-x-IG2B3CdZhxbN8vKMWZUM12U4" />
+        </activity>
+
+    </application>
+
+</manifest>

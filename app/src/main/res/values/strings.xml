@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StojakiWawPl</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu">Menu</string>
+    <string name="about">O projekcie</string>
+    <string name="stojaki">Stojaki</string>
+    <string name="mapa">Mapa</string>
+    <string name="back">Back</string>
+    <string name="title_activity_about_project">AboutProject</string>
+    <string name="lorem_ipsum">        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et magna non velit laoreet tristique. Sed tristique ultrices magna. Ut semper ac risus vel vehicula. Suspendisse tellus sapien, vehicula vitae consectetur nec, scelerisque nec nibh. Ut efficitur felis quis nisl efficitur porta. Donec elementum lacus ipsum, tempor maximus tellus venenatis quis. Pellentesque et tincidunt nulla, a cursus ex. Suspendisse egestas malesuada sapien, in tempus ipsum aliquet vitae. Quisque malesuada mi in nibh dignissim pharetra.
+
+        Nam sagittis elit a ipsum faucibus, sit amet aliquam nibh convallis. Vestibulum sed blandit augue, ac varius arcu. Curabitur tristique enim a porta pharetra. Suspendisse vitae finibus sem. Praesent purus mauris, dignissim sed magna et, aliquam pharetra risus. Aliquam pretium libero ut magna malesuada, eu cursus erat vehicula. Donec nunc odio, vulputate eu dui eget, consequat blandit mauris. Aenean a est vel ipsum tincidunt malesuada ut vitae leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor, mi non gravida aliquam, dui mi pretium diam, nec pretium ligula mauris sed ligula. Etiam pulvinar vulputate arcu at accumsan.
+
+        Aenean posuere massa quis porta convallis. Sed rutrum sem massa, quis consectetur leo dictum in. Cras a consectetur nisl. Vestibulum fringilla fermentum scelerisque. Cras ut vehicula neque. Donec nisl quam, ornare ac consectetur egestas, laoreet quis ante. Fusce eleifend dolor quam, et imperdiet nisl feugiat sed.
+
+        Vestibulum eu aliquet ligula. Donec nec ante tortor. Quisque rutrum nisl odio, eget laoreet ex dignissim et. Cras vulputate ac orci et dictum. Integer eu consectetur ipsum. Nunc dapibus ex vel dui accumsan varius. Morbi porta aliquet libero, eu dictum mi cursus eleifend. Nulla volutpat nibh in enim dignissim eleifend. Nunc commodo, ex eget fermentum convallis, orci velit vulputate eros, sagittis suscipit dolor lacus in urna. Integer nec lacus lorem. Donec quis consequat mi, a posuere urna. Vestibulum ac hendrerit sapien. Nam at tristique arcu, ac scelerisque enim. Praesent vehicula, lectus a consectetur lobortis, erat lacus condimentum nunc, non semper sem elit iaculis purus.
+
+        Cras eget molestie sem. Donec facilisis, ligula sit amet mattis ultricies, nunc ipsum fringilla libero, sit amet dignissim lacus purus non quam. Quisque sed libero vitae erat pulvinar rhoncus id et purus. Fusce malesuada ullamcorper justo. Sed est nulla, tristique quis tellus at, feugiat feugiat diam. Proin pretium et justo non pulvinar. Curabitur ipsum sapien, sodales quis cursus eget, congue a ex. Duis consectetur faucibus eros, et dapibus orci varius ullamcorper. Nulla eleifend mauris ac odio sodales, consectetur feugiat nibh viverra. Nulla eleifend risus maximus nulla mollis ultricies id ac dui. Morbi porttitor erat ut nulla elementum pellentesque. Integer ligula dui, lobortis quis bibendum ac, volutpat at ante. Sed consectetur consectetur libero, at imperdiet mi sollicitudin id.</string>
+    <string name="title_activity_stojaki_mapa">Map</string>
+
+</resources>
